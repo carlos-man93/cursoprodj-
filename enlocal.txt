@@ -1,3 +1,5 @@
 desde la pc local 
 
 mi cambio en el mismo archivo desde el local 
+
+cambio que se esta editando el mismo archivo 
